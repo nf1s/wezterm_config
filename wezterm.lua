@@ -16,6 +16,10 @@ font_size = 15.0,
 
 default_cursor_style = "BlinkingBar",
 cursor_blink_rate = 800,
+colors = {
+    selection_fg = "#ffffff",
+    selection_bg = "#4d4d4d",
+},
 
 enable_tab_bar = false,
 
